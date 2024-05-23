@@ -1,0 +1,9 @@
+export const table = 'student';
+export const table_id = 'id';
+export const table_name = 'name';
+export const table_marks = 'marks';
+export const table_admin = 'admin';
+export const admin_id = 'id';
+export const admin_name = 'name';
+export const admin_pass = 'pass';
+export const admin_phone = 'phone';
