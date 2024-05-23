@@ -1,0 +1,148 @@
+
+[
+    {
+      "courseId": "001",
+      "courseName": "Introduction to Web Development",
+      "teacherName": "John Smith",
+      "price": 49.99,
+      "description": "Learn the basics of web development from HTML to CSS and JavaScript.",
+      "img":"https://www.scnsoft.com/application-development/web-dev-services/cover-pic-web-development-new.svg"
+    },
+    {
+      "courseId": "002",
+      "courseName": "Data Science Fundamentals",
+      "teacherName": "Jessica Johnson",
+      "price": 79.99,
+      "img":"https://miro.medium.com/v2/resize:fit:1100/format:webp/1*gmZ4AOC-BDU0hE9qUNQEkg.png",
+      "description": "Discover the fundamentals of data science, including data analysis and visualization."
+    },
+    {
+      "courseId": "003",
+      "courseName": "Java Programming Masterclass",
+      "teacherName": "Michael Brown",
+      "price": 59.99,
+      "img":"https://growth.edu.gr/wp-content/uploads/2023/05/Oracle-to-discontinue-extended-support-for-Java-7.webp",
+      "description": "Master Java programming from beginner to advanced level."
+    },
+    {
+      "courseId": "004",
+      "courseName": "Graphic Design Essentials",
+      "teacherName": "Emily Wilson",
+      "price": 39.99,
+      "img":"https://vudigital.co/wp-content/uploads/2022/10/graphic-design-la-gi-8-thanh-phan-co-ban-cua-graphic-design-2.webp",
+      "description": "Essential graphic design skills and techniques for beginners."
+    },
+    {
+      "courseId": "005",
+      "courseName": "Mobile App Development with React Native",
+      "teacherName": "Andrew Davis",
+      "price": 69.99,
+      "img":"https://miro.medium.com/v2/resize:fit:1100/format:webp/1*8NjDXiICAKMgwEX3UEx85w.png",
+      "description": "Build mobile applications using React Native framework."
+    },
+    {
+      "courseId": "006",
+      "courseName": "Python for Data Analysis",
+      "teacherName": "Olivia Martinez",
+      "price": 89.99,
+      "img":"https://ioflood.com/blog/wp-content/uploads/2023/09/Retrieving-current-directory-in-Python-folder-path-directory-tree-code-logo-300x300.jpg.webp",
+      "description": "Learn Python programming for data analysis and visualization."
+    },
+    {
+      "courseId": "007",
+      "courseName": "Photography Masterclass",
+      "teacherName": "Daniel White",
+      "price": 44.99,
+      "img":"https://www.ncertbooks.guru/wp-content/uploads/2022/03/Diploma-in-Photography.png",
+      "description": "Master the art of photography with professional techniques and tips."
+    },
+    {
+      "courseId": "008",
+      "courseName": "Cybersecurity Fundamentals",
+      "teacherName": "Sophia Adams",
+      "price": 59.99,
+      "img":"https://www.tuv.com/content-media-files/germany/bs-industrial-service/landingpages/functional-safety-training-cyber-security/distribution-pages/tuv-rheinland-cs-fundamentals-of-cyber-security-sk-453386985_core_8_3.jpg",
+      "description": "Fundamental concepts and practices in cybersecurity."
+    },
+    {
+      "courseId": "009",
+      "courseName": "Artificial Intelligence Basics",
+      "teacherName": "David Lee",
+      "price": 79.99,
+      "img":"https://miro.medium.com/v2/resize:fit:1100/format:webp/1*2jKz5spsCGgiwIKkxMf3wQ.png",
+      "description": "An introduction to artificial intelligence and its applications."
+    },
+    {
+      "courseId": "010",
+      "courseName": "UI/UX Design Fundamentals",
+      "teacherName": "Ava Robinson",
+      "price": 49.99,
+      "img":"https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2021/05/ux-research-in-ux-design.png.webp",
+      "description": "Fundamental principles of user interface and user experience design."
+    },
+    {
+      "courseId": "011",
+      "courseName": "Machine Learning Essentials",
+      "teacherName": "Jack Turner",
+      "price": 89.99,
+      "img":"https://media.licdn.com/dms/image/D4D12AQES4GfG9LSshA/article-cover_image-shrink_720_1280/0/1709111044412?e=1721865600&v=beta&t=mNmHDrGk6-N7eRCb-10dWPd3l5yg4LytSHBLNgXji2g",
+      "description": "Essential concepts and algorithms of machine learning."
+    },
+    {
+      "courseId": "012",
+      "courseName": "Digital Marketing Strategies",
+      "teacherName": "Lily Moore",
+      "price": 59.99,
+      "img":"https://media.licdn.com/dms/image/C5612AQFbvLgbFTvaFw/article-cover_image-shrink_720_1280/0/1633899610825?e=1721865600&v=beta&t=_jpT7R1MeWqLa2L-AdgzvYYM9uJ2dkp_gkqs6GFdY8k",
+      "description": "Effective digital marketing strategies for businesses and brands."
+    },
+    {
+      "courseId": "013",
+      "courseName": "E-commerce Business Basics",
+      "teacherName": "Noah Hill",
+      "price": 39.99,
+      "img":"https://cdn.sellerapp.com/img/blogs/structure-of-ecommerce.jpg",
+      "description": "Basic principles and strategies for starting an e-commerce business."
+    },
+    {
+      "courseId": "014",
+      "courseName": "iOS App Development with Swift",
+      "teacherName": "Chloe Baker",
+      "price": 69.99,
+      "img":"https://www.spec-india.com/wp-content/uploads/2022/11/Banner-Swift-App-Development.png",
+      "description": "Learn to develop iOS applications using the Swift programming language."
+    },
+    {
+      "courseId": "015",
+      "courseName": "Deep Learning Fundamentals",
+      "teacherName": "Gabriel Perez",
+      "price": 79.99,
+      "img":"https://media.licdn.com/dms/image/D5612AQG64FIJTWWB5w/article-cover_image-shrink_720_1280/0/1694687352022?e=1721865600&v=beta&t=MVrRS6AYlsZKEthIfV_cfDXCF6skGSn-fkiazxw5tWQ",
+      "description": "Fundamental concepts and architectures of deep learning."
+    },
+    {
+      "courseId": "016",
+      "courseName": "Video Editing Techniques",
+      "teacherName": "Mia Wood",
+      "price": 49.99,
+      "img":"https://cdn-media.wacom.com/en-in/events/-/media/images/discover-2020/film-and-animation/the-best-video-editing-techniques/wacom-film-animation-best-video-editing-techniques-m-i.jpg?rev=4ba7271688574777889fea8b0817816e&hash=A9FCF644984705DEF3BE359BA8219BE2",
+      "description": "Fundamental video editing techniques using popular tools and software."
+    },
+    {
+      "courseId": "017",
+      "courseName": "Full Stack Web Development Bootcamp",
+      "teacherName": "Caleb Scott",
+      "price": 99.99,
+      "img":"https://www.codingninjas.com/blog/wp-content/uploads/2021/08/Blog-7-2.png",
+      "description": "Intensive bootcamp for full stack web development skills."
+    },
+    {
+      "courseId": "018",
+      "courseName": "SQL Database Management",
+	"teacherName": "Sameer Sir",
+	"price": 99.99,
+  "img":"https://optim.tildacdn.one/tild6262-6661-4034-b164-383063636462/-/format/webp/What_is_SQL_Database.png",
+      "description": "Intensive MYSQl for Data Base Technology."
+    }
+]
+  

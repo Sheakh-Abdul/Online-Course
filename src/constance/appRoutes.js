@@ -1,0 +1,10 @@
+export const LOGIN_ROUTE = '/';
+export const ADMIN_LOGIN_ROUTE = '/admin-login';
+export const RAGISTRATION_ROUTE = '/register-student';
+export const STUDENT_LIST_ROUTE = '/student-list';
+export const STUDENT_EDIT_ROUTE = '/student-edit/:id';
+export const HOME_ROUTE = '/home';
+export const ABOUT_ROUTE = '/about';
+export const CONTACT_US_ROUTE = '/contact';
+export const COURSE_LIST_ROUTE = '/course-list';
+export const FEED_LIST_ROUTE = '/feedback-list';

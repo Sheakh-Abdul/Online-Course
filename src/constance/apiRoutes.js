@@ -1,0 +1,16 @@
+export const BASE_API_ROUTE='http://127.0.0.1:1678';
+export const INSERT_API_ROUTE = `${BASE_API_ROUTE}/insert`;
+export const FETCH_API_ROUTE = `${BASE_API_ROUTE}/std`; 
+export const DELETE_API_ROUTE = `${BASE_API_ROUTE}/delete`;
+export const UPDATE_API_ROUTE = `${BASE_API_ROUTE}/update`; 
+export const FIND_API_ROUTE = `${BASE_API_ROUTE}/find`; 
+export const ADMIN_LOGIN = `${BASE_API_ROUTE}/login`;
+export const ADD_USER_ROUTE = `${BASE_API_ROUTE}/insertUser`;
+export const LOGIN_USER_ROUTE = `${BASE_API_ROUTE}/loginUser`;
+export const CREATE_USER_TABLE = `${BASE_API_ROUTE}/new`;
+export const ADD_COURCE = `${BASE_API_ROUTE}/course`;
+export const GET_COURCE_ROUTE = `${BASE_API_ROUTE}/courseList`;
+export const DELETE_COURCE_ROUTE = `${BASE_API_ROUTE}/delete-course`;
+export const ADD_FEEDBACK_ROUTE = `${BASE_API_ROUTE}/feedback`;
+export const GET_FEEDBACK_ROUTE = `${BASE_API_ROUTE}/feedbackList`;
+export const DELETE_FEEDBACK_ROUTE = `${BASE_API_ROUTE}/deleteFeedback`;
